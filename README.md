@@ -21,7 +21,7 @@ Apply treble and bass boost, and perform noise removal as necessary.
 
 #### Example Import Settings
 
-![](2024-02-27 18_11_44-Audacity.jpg)
+![](/2024-02-27 18_11_44-Audacity.jpg)
 
 ### Contributing
 Feel free to fork this project and contribute. All contributions are welcome, whether it's adding new features, improving the documentation, or reporting issues.
