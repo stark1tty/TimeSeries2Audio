@@ -21,7 +21,7 @@ Apply treble and bass boost, and perform noise removal as necessary.
 
 #### Example Import Settings
 
-![](/2024-02-27 18_11_44-Audacity.jpg)
+![](https://github.com/stark1tty/TimeSeries2Audio/blob/main/2024-02-27%2018_11_44-Audacity.jpg?raw=true)
 
 ### Contributing
 Feel free to fork this project and contribute. All contributions are welcome, whether it's adding new features, improving the documentation, or reporting issues.
