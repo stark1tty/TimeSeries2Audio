@@ -4,6 +4,9 @@ R script for normalizing time series data into sound with R and Audacity, becaus
 ## Overview
 This project converts time series data into audio signals. By normalizing the data between -1 and 1 (to fit the decibel range), we export the result to a CSV file. This file is then imported into Audacity, which undergoes further manipulation, including tempo adjustments, treble and bass boost, and noise removal, to produce a unique sound output.
 
+### Example Output
+- [Example audio output can be found here.](https://github.com/stark1tty/TimeSeries2Audio/raw/main/smoothed_x.mp3)
+
 ### Prerequisites
 - R (for data processing)
 - Audacity (for audio manipulation)
